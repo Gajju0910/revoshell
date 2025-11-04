@@ -50,17 +50,10 @@ builds:
 
 archives:
   - id: revoshell-archive
+    format: tar.gz
     format_overrides:
       - goos: darwin
         format: zip
-      - goos: linux
-        format: tar.gz
-      - goos: freebsd
-        format: tar.gz
-      - goos: openbsd
-        format: tar.gz
-      - goos: netbsd
-        format: tar.gz
 
     name_template: >-
       {{ .ProjectName }}_
