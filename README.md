@@ -6,12 +6,9 @@
   <strong>A secure reverse-shell orchestration hub for managing remote devices</strong>
 </p>
 
-
-## How it works
+### Architecture Overview
 
 RevoShell uses a client-server architecture with three main components:
-
-### Architecture Overview
 
 1. **Server** - The central hub that orchestrates all connections
    - Run the server on a machine accessible to your agents (e.g., a cloud server, local machine, or VPS)
